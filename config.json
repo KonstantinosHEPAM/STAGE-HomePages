@@ -1,0 +1,40 @@
+{
+  "urls": [
+    "https://stage-us.msccruises.com/",
+    "https://stage-br.msccruises.com/",
+    "https://stage-it.msccruises.com/",
+    "https://stage-uk.msccruises.com/",
+    "https://stage-de.msccruises.com/",
+    "https://stage-fr.msccruises.com/",
+    "https://stage-za.msccruises.com/",
+    "https://stage-es.msccruises.com/",
+    "https://stage.msccruises.com/int",
+    "https://stage-ch.msccruises.com/",
+    "https://stage-ca.msccruises.com/",
+    "https://stage-fi.msccruises.com/",
+    "https://stage-dk.msccruises.com/",
+    "https://stage-no.msccruises.com/",
+    "https://stage-se.msccruises.com/",
+    "https://stage-nl.msccruises.com/",
+    "https://stage-be.msccruises.com/",
+    "https://stage-au.msccruises.com/",
+    "https://stage-nz.msccruises.com/",
+    "https://stage-pt.msccruises.com/",
+    "https://stage-cl.msccruises.com/",
+    "https://stage-ie.msccruises.com/",
+    "https://stage-ar.msccruises.com/",
+    "https://stage-at.msccruises.com/",
+    "https://stage-ca.msccruises.com/fr/",
+    "https://stage-lta.msccruises.com/"
+  ],
+  "scripts": [
+    "mymscapp",
+    "sdk.privacy-center",
+    "app-lon05.marketo",
+    "rtp-api/v1/rtp.js",
+    "GTM-W4JBLF7",
+    "GTM-TDFBBD79",
+    "try.abtasty",
+    "https://assets.adobedtm.com/e89550510280/83e8aacd5ad3/launch-020088aa99f2-staging.min.js"
+  ]
+}
